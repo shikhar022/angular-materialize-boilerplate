@@ -1,0 +1,9 @@
+{
+	"name": "angular-materialize-ui-router",
+	"version": "1.0.0",
+	"dependencies": {
+		"angular": "latest",
+		"materialize" : "latest",
+	  	"angular-ui-router" : "latest"
+	}
+}
